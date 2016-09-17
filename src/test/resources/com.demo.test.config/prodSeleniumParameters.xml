@@ -1,0 +1,17 @@
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <entry key="url">http://www.rediff.com/</entry>
+    <entry key="userName">xxxxx</entry>
+    <entry key="password">yyyyyy</entry>
+    <!--entry key="webdriverBrowser">chrome</entry> -->
+    <!--Changes Corresponding to New Test Config-->
+    <!--Ensure the Key Names matches @ExternalConfig annotated fields-->
+    <entry key="chromeDriverPath">//chromeDriver.exe</entry>
+    <entry key="firefoxDriverPath">"C:\Program Files (x86)\Mozilla Firefox.firefox.exe"</entry>
+    <!--<entry key="chromeDriverPath">/Documents/webdrivers/chromedriver</entry>-->
+    <!--<entry key="appUrl">https://dev.url</entry> -->
+    <entry key="ieDriverPath"></entry>
+    <entry key="maxTestRetryCountOnFailure">3</entry>
+</properties>
+
+
