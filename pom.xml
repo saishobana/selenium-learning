@@ -77,7 +77,7 @@
                           <configuration>
                               <systemPropertyVariables>
                                   <config.paramfile>
-                                      test.xml
+                                      124/test.xml
                                   </config.paramfile>
                                   <browser>${browser}</browser>
                               </systemPropertyVariables>
