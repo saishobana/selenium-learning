@@ -54,11 +54,6 @@
                               <parallel>methods</parallel>
                               <threadCount>8</threadCount>
                               <rerunFailingTestsCount>3</rerunFailingTestsCount>
-                              <systemPropertyVariables>
-                                  <config.xml>
-                                      /qa.xml
-                                  </config.xml>
-                              </systemPropertyVariables>
 
                               <includes>
                                   <include>/com.demo.test/FirstTest.java</include>
