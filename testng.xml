@@ -2,7 +2,7 @@
        <test name="Regression1">
         <classes>
             <class name="com.demo.test.yahoo.test.YahooTest"/>
-           <class name="com.demo.test.yahoo.test.YahooTest1"/>
+           <class name="com.demo.test.yahoo.test.YahooTest"/>
         </classes>
     </test>
 </suite>
