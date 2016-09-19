@@ -1,4 +1,5 @@
-<suite name="Suite1">
+<suite name="Suite yahoo">
+
        <test name="Regression1">
         <classes>
             <class name="com.demo.test.yahoo.test.YahooTest"/>
